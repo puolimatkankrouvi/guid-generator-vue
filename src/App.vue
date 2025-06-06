@@ -5,6 +5,8 @@ import Header from './components/Header.vue';
 </script>
 
 <template>
-  <Header />
-  <GuidTableContainer />
+  <main>
+    <Header />
+    <GuidTableContainer />
+  </main>
 </template>
