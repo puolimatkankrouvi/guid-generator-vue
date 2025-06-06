@@ -2,15 +2,21 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import Aura from "@primeuix/themes/aura";
 import PrimeVue from 'primevue/config';
-import { Button, DataTable } from 'primevue';
+import { Button, DataTable, Menubar } from 'primevue';
 
 const app = createApp(App)
 app.use(PrimeVue, {
     theme: {
         preset: Aura,
+        options: {
+            prefix: 'p',
+            darkModeSelector: 'system',
+            cssLayer: false
+        }
     },
 });
 
+app.component('Menubar', Menubar)
 app.component('DataTable', DataTable);
 app.component('Button', Button);
 
