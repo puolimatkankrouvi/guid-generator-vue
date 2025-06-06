@@ -5,7 +5,7 @@ import { Menubar } from 'primevue';
 <template>
   <Menubar>
     <template #start>
-        <h1>Guid generator</h1>
+        <h1>Guid Generator</h1>
     </template>
   </Menubar>
 </template>

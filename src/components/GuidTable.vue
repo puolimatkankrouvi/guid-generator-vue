@@ -8,7 +8,7 @@
 </script>
 
 <template>
-    <DataTable :value="props.guidListItems">
+    <DataTable :value="props.guidListItems" tableStyle="max-width: 500px">
         <Column field="guid" header="Guid" />
     </DataTable>
 </template>

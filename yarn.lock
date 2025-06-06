@@ -1156,11 +1156,6 @@ pretty-ms@^9.2.0:
   dependencies:
     parse-ms "^4.0.0"
 
-primeflex@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/primeflex/-/primeflex-4.0.0.tgz#660d9d8494ce8d51bae89db0cc8b47fceda51035"
-  integrity sha512-UOEZCRjR36+sm5bUpDhS1xbA068l9VC6y1aTNVqQPtXuKIdPTqAWHRUxj3mKAoPrQ9W373ooJJMgNVXfiaw04g==
-
 primevue@4.3.5:
   version "4.3.5"
   resolved "https://registry.yarnpkg.com/primevue/-/primevue-4.3.5.tgz#772fea9c834c130be65e38d8625bf408d68c5559"

@@ -12,6 +12,8 @@
 </script>
 
 <template>
-  <Button @click="generate()">Generate</Button>
-  <GuidTable :guidListItems />
+  <section>
+    <Button @click="generate()">Generate guids</Button>
+    <GuidTable :guidListItems />
+  </section>
 </template>
