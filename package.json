@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@tsconfig/node22": "22.0.2",
-    "@types/node": "22.15.30",
+    "@types/node": "22.9.0",
     "@vitejs/plugin-vue": "6.0.0",
     "@vue/tsconfig": "0.7.0",
     "typescript": "5.8.3",
