@@ -1,3 +1,4 @@
 # Guid Generator
 
-I did this to learn Vue.
+TODO:
+Primeuix 1.2.2 requires pnpm to setup 
