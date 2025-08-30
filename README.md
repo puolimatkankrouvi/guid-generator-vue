@@ -1,4 +1,4 @@
 # Guid Generator
 
 TODO:
-Primeuix 1.2.2 requires pnpm to setup 
+Primeuix 1.2.3 fix import
