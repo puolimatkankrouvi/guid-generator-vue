@@ -436,10 +436,10 @@
   dependencies:
     "@primeuix/styled" "^0.7.4"
 
-"@primeuix/themes@2.0.2":
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/@primeuix/themes/-/themes-2.0.2.tgz#48f138813364552cee3d78b327b438a3a9b5d675"
-  integrity sha512-prwQvA3tDGBz8yWSUenaJUttEMCEvPvxwOfFhDPmSe1vwsfVKL2Nmh5eZvtPFQnxmIOPsHZS7zc0/L3CzJ83Eg==
+"@primeuix/themes@2.0.3":
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/@primeuix/themes/-/themes-2.0.3.tgz#c3919d49e818b3bbac611ab8d89a52d4ffed6815"
+  integrity sha512-3fS1883mtCWhgUgNf/feiaaDSOND4EBIOu9tZnzJlJ8QtYyL6eFLcA6V3ymCWqLVXQ1+lTVEZv1gl47FIdXReg==
   dependencies:
     "@primeuix/styled" "^0.7.4"
 
