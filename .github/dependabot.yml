@@ -3,8 +3,12 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     ignore:
       - dependency-name: "@types/node"
         versions:
           - ">=23.0.0"
+    groups:
+      frontend:
+        patterns:
+          - "*"
