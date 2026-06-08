@@ -17,11 +17,11 @@
   },
   "devDependencies": {
     "@tsconfig/node22": "22.0.5",
-    "@types/node": "22.19.19",
+    "@types/node": "22.19.20",
     "@vitejs/plugin-vue": "6.0.7",
     "@vue/tsconfig": "0.9.1",
     "typescript": "6.0.3",
-    "vite": "8.0.14",
+    "vite": "8.0.16",
     "vite-plugin-vue-devtools": "8.1.2"
   },
   "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610"
