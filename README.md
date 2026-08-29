@@ -2,5 +2,6 @@
 
 TODO:
 - Node 24 update
-- @primeuix/themes 3 update
+
+NOTES:
 - Primevue 5 is paid
