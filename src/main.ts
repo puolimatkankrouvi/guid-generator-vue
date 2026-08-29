@@ -5,6 +5,7 @@ import PrimeVue from 'primevue/config';
 import { Button, DataTable, Menubar } from 'primevue';
 
 const app = createApp(App)
+
 app.use(PrimeVue, {
     theme: {
         preset: Aura,
