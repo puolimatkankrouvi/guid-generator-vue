@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { Menubar } from 'primevue';
+import { Menubar, Button } from 'primevue';
 
 const toggleDarkMode = () => {
   document.documentElement.classList.toggle('has-dark-mode');
